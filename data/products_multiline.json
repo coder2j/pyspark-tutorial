@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12",
+    "category": "Electronics",
+    "quantity": 10,
+    "price": 899.99
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Max 90",
+    "category": "Clothing",
+    "quantity": 25,
+    "price": 119.99
+  },
+  {
+    "id": 3,
+    "name": "KitchenAid Stand Mixer",
+    "category": "Home Appliances",
+    "quantity": 5,
+    "price": 299.99
+  },
+  {
+    "id": 4,
+    "name": "The Great Gatsby",
+    "category": "Books",
+    "quantity": 50,
+    "price": 12.99
+  },
+  {
+    "id": 5,
+    "name": "L'Oreal Paris Mascara",
+    "category": "Beauty",
+    "quantity": 100,
+    "price": 9.99
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "quantity": 30,
+    "price": 29.99
+  },
+  {
+    "id": 7,
+    "name": "Samsung 4K Smart TV",
+    "category": "Electronics",
+    "quantity": 8,
+    "price": 799.99
+  },
+  {
+    "id": 8,
+    "name": "Levi's Jeans",
+    "category": "Clothing",
+    "quantity": 15,
+    "price": 49.99
+  },
+  {
+    "id": 9,
+    "name": "Dyson Vacuum Cleaner",
+    "category": "Home Appliances",
+    "quantity": 3,
+    "price": 399.99
+  },
+  {
+    "id": 10,
+    "name": "Harry Potter Series",
+    "category": "Books",
+    "quantity": 20,
+    "price": 15.99
+  },
+  {
+    "id": 11,
+    "name": "MAC Lipstick",
+    "category": "Beauty",
+    "quantity": 75,
+    "price": 16.99
+  },
+  {
+    "id": 12,
+    "name": "Adidas Running Shoes",
+    "category": "Sports",
+    "quantity": 22,
+    "price": 59.99
+  },
+  {
+    "id": 13,
+    "name": "PlayStation 5",
+    "category": "Electronics",
+    "quantity": 12,
+    "price": 499.99
+  },
+  {
+    "id": 14,
+    "name": "Hooded Sweatshirt",
+    "category": "Clothing",
+    "quantity": 10,
+    "price": 34.99
+  },
+  {
+    "id": 15,
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "quantity": 7,
+    "price": 89.99
+  },
+  {
+    "id": 16,
+    "name": "To Kill a Mockingbird",
+    "category": "Books",
+    "quantity": 15,
+    "price": 9.99
+  },
+  {
+    "id": 17,
+    "name": "Skincare Set",
+    "category": "Beauty",
+    "quantity": 50,
+    "price": 49.99
+  },
+  {
+    "id": 18,
+    "name": "Yoga Ball",
+    "category": "Sports",
+    "quantity": 18,
+    "price": 19.99
+  },
+  {
+    "id": 19,
+    "name": "Sony Noise-Canceling Headphones",
+    "category": "Electronics",
+    "quantity": 6,
+    "price": 299.99
+  },
+  {
+    "id": 20,
+    "name": "Puma T-shirt",
+    "category": "Clothing",
+    "quantity": 40,
+    "price": 19.99
+  }
+]

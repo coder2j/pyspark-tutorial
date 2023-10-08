@@ -1,0 +1,31 @@
+id,name,category,quantity,price
+1,iPhone,Electronics,10,899.99
+2,Macbook,Electronics,5,1299.99
+3,iPad,Electronics,15,499.99
+4,Samsung TV,Electronics,8,799.99
+5,LG TV,Electronics,10,699.99
+6,Nike Shoes,Clothing,30,99.99
+7,Adidas Shoes,Clothing,25,89.99
+8,Sony Headphones,Electronics,12,149.99
+9,Beats Headphones,Electronics,20,199.99
+10,Dining Table,Furniture,10,249.99
+11,Study Desk,Furniture,8,149.99
+12,Apples,Food,100,0.5
+13,Bananas,Food,150,0.25
+14,Oranges,Food,120,0.75
+15,Chicken Breast,Food,50,3.99
+16,Salmon Fillet,Food,30,5.99
+17,Leather Jacket,Clothing,15,199.99
+18,Winter Coat,Clothing,10,149.99
+19,Yoga Mat,Sports,20,19.99
+20,Dumbbell Set,Sports,15,49.99
+21,Coffee Table,Furniture,5,129.99
+22,Office Chair,Furniture,8,79.99
+23,Bookshelf,Furniture,10,99.99
+24,Laptop Bag,Accessories,25,29.99
+25,Backpack,Accessories,30,24.99
+26,Camera,Electronics,10,599.99
+27,Printer,Electronics,8,129.99
+28,Jeans,Clothing,30,59.99
+29,T-shirt,Clothing,50,14.99
+30,Sneakers,Clothing,40,79.99
